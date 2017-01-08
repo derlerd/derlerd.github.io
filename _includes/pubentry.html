@@ -5,34 +5,34 @@
     <table class="dltable">
       <tr>
         <td class="downloadpdf">
-          {% if post.pdf %}<a href="{{post.pdf}}"><i class="fa fa-file-pdf-o"></i></a>
+          {% if post.pdf %}<a href="{{post.pdf}}" target="_blank"><i class="fa fa-file-pdf-o"></i></a>
           {% else %} <i class="fa fa-file-pdf-o"></i>
           {% endif %}
         </td>
         <td class="downloadpdf">
-          {% if post.pub %}<a href="{{post.pub}}"><i class="fa fa-book"></i></a>
+          {% if post.pub %}<a href="{{post.pub}}" target="_blank"><i class="fa fa-book"></i></a>
           {% else %} <i class="fa fa-book"></i>
           {% endif %}
         </td>
         <td class="download">
-          {% if post.web %}<a href="{{post.web}}"><i class="fa fa-globe"></i></a>
+          {% if post.web %}<a href="{{post.web}}" target="_blank"><i class="fa fa-globe"></i></a>
           {% else %} <i class="fa fa-globe"></i>
           {% endif %}
         </td>
       </tr>
       <tr>
         <td class="download">
-          {% if post.talk %}<a href="{{post.talk}}"><i class="fa fa-television"></i></a>
+          {% if post.talk %}<a href="{{post.talk}}" target="_blank"><i class="fa fa-television"></i></a>
           {% else %} <i class="fa fa-television"></i>
           {% endif %}
         </td>
         <td class="download">
-          {% if post.bib %}<a href="{{post.bib}}"><i class="fa fa-link"></i></a>
+          {% if post.bib %}<a href="{{post.bib}}" target="_blank"><i class="fa fa-link"></i></a>
           {% else %} <i class="fa fa-link"></i>
           {% endif %}
         </td>
         <td class="download">
-          {% if post.github %}<a href="{{post.github}}"><i class="fa fa-github"></i></a>
+          {% if post.github %}<a href="{{post.github}}" target="_blank"><i class="fa fa-github"></i></a>
           {% else %} <i class="fa fa-github"></i>
           {% endif %}
         </td>
