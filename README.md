@@ -1,6 +1,6 @@
-# Jekyll Environment for my Academic Website
+# Jekyll Environment for Academic Website
 
-This repository contains the jekyll environment which is automatically transferred into my static github pages [site](http://derlerd.github.io).
+This repository contains the Jekyll environment which is automatically transferred into my static github pages [site](http://derlerd.github.io).
 
 ## Publication List
 
