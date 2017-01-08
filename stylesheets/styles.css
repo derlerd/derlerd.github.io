@@ -6,10 +6,6 @@ body {
   font-weight:400;
 }
 
-.publications {
-  font-size:13px;
-}
-
 h1, h2, h3, h4, h5, h6 {
   color:#222;
   margin:0 0 8px;
@@ -134,6 +130,10 @@ header ul {
 header li {
   display:inline;
   padding: 3px 3px;
+}
+
+.publications td {
+  font-size:13px;
 }
 
 .download ul {
