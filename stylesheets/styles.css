@@ -48,15 +48,19 @@ a:hover {
 }
 
 .extlinks a:hover {
-  opacity:0.5;
+  color:#452dbf;
 }
 
-.download a {
-  color:#6f57e6;
+.download i {
+  color:#dfdfdf;
+}
+
+.download a i {
+  color:#393939;
   text-decoration:none;
 }
 
-.download a:hover {
+.download a i:hover {
   color:#452dbf;
 }
 
