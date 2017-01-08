@@ -1,0 +1,42 @@
+<tr class="pubentry">
+  <td>{{post.year}}</td>
+  <td>{{post.authors}} - <b><i>"{{post.title}}"</i></b> - {% if post.vurl %}<a href="{{post.vurl}}">{{post.venue}}</a>{% else %}{{post.venue}}{% endif %}{% if post.vatt %} {{post.vatt}}{% endif %}.</td>
+  <td>
+    <table class="dltable">
+      <tr>
+        <td class="downloadpdf">
+          {% if post.pdf %}<a href="{{post.pdf}}"><i class="fa fa-file-pdf-o"></i></a>
+          {% else %} <i class="fa fa-file-pdf-o"></i></a>
+          {% endif %}
+        </td>
+        <td class="downloadpdf">
+          {% if post.pub %}<a href="{{post.pub}}"><i class="fa fa-book"></i></a>
+          {% else %} <i class="fa fa-book"></i>
+          {% endif %}
+        </td>
+        <td class="download">
+          {% if post.web %}<a href="{{post.web}}"><i class="fa fa-globe"></i></a>
+          {% else %} <i class="fa fa-globe"></i>
+          {% endif %}
+        </td>
+      </tr>
+      <tr>
+        <td class="download">
+          {% if post.talk %}<a href="{{post.talk}}"><i class="fa fa-television"></i></a>
+          {% else %} <i class="fa fa-television"></i>
+          {% endif %}
+        </td>
+        <td class="download">
+          {% if post.bib %}<a href="{{post.bib}}"><i class="fa fa-link"></i></a>
+          {% else %} <i class="fa fa-link"></i>
+          {% endif %}
+        </td>
+        <td class="download">
+          {% if post.github %}<a href="{{post.github}}"><i class="fa fa-github"></i></a>
+          {% else %} <i class="fa fa-github"></i>
+          {% endif %}
+        </td>
+      </tr>
+    </table>
+  </td>
+</tr>

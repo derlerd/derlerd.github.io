@@ -1,0 +1,11 @@
+---
+layout: post
+year: 2016
+title: Fully-Anonymous Short Dynamic Group Signatures Without Encryption
+authors: David Derler, Daniel Slamanig
+venue: IACR Cryptology ePrint Archive Report 2016/154
+pdf: http://eprint.iacr.org/2016/154.pdf
+web: http://eprint.iacr.org/2016/154
+bib: http://dblp.uni-trier.de/rec/bibtex/journals/iacr/DerlerS16
+---
+

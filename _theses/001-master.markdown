@@ -1,0 +1,11 @@
+---
+layout: post
+year: 2013
+title:  On the Optimization of two Recent Proxy-Type Digital Signature Schemes and their Efficient Implementation in Java
+authors: David Derler
+venue: Master's Thesis, Graz University of Technology, 2013 
+
+
+categories: preprint
+---
+

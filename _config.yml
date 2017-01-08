@@ -1,0 +1,35 @@
+# Site metadata
+keywords: Cryptography, Privacy, Digital Signatures, Graz University of Technology, IAIK
+description: Academic Website of David Derler, IAIK, Graz University of Technology, Graz, Austria
+title: David Derler | IAIK, Graz University of Technology
+
+author: David Derler
+authorimg: images/dd.png
+authoroccup: Researcher in Cryptography
+
+inst: IAIK
+insturl: http://www.iaik.tugraz.at
+uni: Graz University of Technology
+uniurl: http://www.tugraz.at
+
+vcard: https://online.tugraz.at/tug_online/visitenkarte.show_vcard?pPersonenGruppe=3&pPersonenId=B18F130F7304005A
+office: https://online.tu-graz.ac.at/tug_online/ris.einzelraum?raumkey=4944
+twitter: dderler
+linkedin: david-derler-08630495
+dblp: hd/d/Derler:David
+scholar: YfMKI0wAAAAJ
+
+# Build settings
+markdown: kramdown
+theme: minima
+gems:
+  - jekyll-feed
+collections:
+  - preprints
+  - proc
+  - articles
+  - theses
+  - deli
+exclude:
+  - Gemfile
+  - Gemfile.lock

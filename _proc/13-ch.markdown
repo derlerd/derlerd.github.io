@@ -1,0 +1,11 @@
+---
+layout: post
+year: 2017
+title:  Chameleon-Hashes with Ephemeral Trapdoors and Applications to Invisible Sanitizable Signatures
+authors: Jan Camenisch, David Derler, Stephan Krenn, Henrich C. Pöhls, Kai Samelin, Daniel Slamanig
+venue: PKC 2017
+vurl: https://www.iacr.org/workshops/pkc2017/
+vatt: (Accepted)
+
+---
+

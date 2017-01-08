@@ -1,0 +1,10 @@
+---
+layout: post
+year: 2016
+title:  Overview of Functional and Malleable Signature Schemes
+authors: Denise Demirel, David Derler, Christian Hanser, Henrich Pöhls, Daniel Slamanig, Giulia Traverso
+venue: PRISMACLOUD D4.4
+pdf: publications/deli/d4-4.pdf
+web: http://prismacloud.eu/
+---
+

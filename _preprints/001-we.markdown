@@ -1,0 +1,11 @@
+---
+layout: post
+year: 2015
+title: Practical Witness Encryption for Algebraic Languages Or How to Encrypt Under Groth-Sahai Proofs
+authors: David Derler, Daniel Slamanig
+venue: IACR Cryptology ePrint Archive Report 2015/1073
+pdf: http://eprint.iacr.org/2015/1073.pdf
+web: http://eprint.iacr.org/2015/1073
+bib: http://dblp.uni-trier.de/rec/bibtex/journals/iacr/DerlerS15a
+---
+

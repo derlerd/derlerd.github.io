@@ -1,0 +1,11 @@
+---
+layout: post
+year: 2016
+title: Key-Homomorphic Signatures and Applications to Multiparty Signatures and Non-Interactive Zero-Knowledge
+authors: David Derler, Daniel Slamanig
+venue: IACR Cryptology ePrint Archive Report 2016/792 
+pdf: http://eprint.iacr.org/2016/792.pdf
+web: http://eprint.iacr.org/2016/792
+bib: http://dblp.uni-trier.de/rec/bibtex/journals/iacr/DerlerS16a
+---
+

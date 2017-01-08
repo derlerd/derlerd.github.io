@@ -1,0 +1,12 @@
+---
+layout: post
+year: 2015
+title: Towards Authenticity and Privacy Preserving Accountable Workflows
+authors: David Derler, Christian Hanser, Henrich C. Pöhls, Daniel Slamanig
+venue: Privacy and Identity Management 2015
+vurl: http://dblp.uni-trier.de/db/conf/primelife/pim2015.html
+pub: http://dx.doi.org/10.1007/978-3-319-41763-9_12
+bib: http://dblp.uni-trier.de/rec/bibtex/conf/primelife/DerlerHPS15
+
+---
+

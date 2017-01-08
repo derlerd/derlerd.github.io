@@ -1,0 +1,10 @@
+---
+layout: post
+year: 2014
+title: Design und Implementierung eines Localhost Signaturgateways
+authors: David Derler, Christof Rath, Moritz Horsch, Tobias Wich
+venue: D-A-CH Security 2014
+vurl: https://www.syssec.at/dachsecurity2014/
+
+---
+
