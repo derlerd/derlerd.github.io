@@ -1,6 +1,6 @@
 ---
 layout: post
-year: 2016
+year: 2015
 title:  Overview of Verifiable Computing Techniques Providing Private and Public Verification
 authors: Johannes Buchmann, Denise Demirel, David Derler, Lucas Schabhüser, Daniel Slamanig
 venue: PRISMACLOUD D5.8
