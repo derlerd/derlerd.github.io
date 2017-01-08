@@ -51,6 +51,10 @@ a:hover {
   color:#452dbf;
 }
 
+table.dltable {
+  margin:0 0 0px;
+}
+
 .download i {
   color:#dfdfdf;
 }
@@ -115,7 +119,7 @@ th {
   border-bottom:1px solid #afafaf;
 }
 
-tr:nth-child(even) {
+.pubtable tr.pubentry:nth-child(even) {
   background: #efefef;
 }
 
