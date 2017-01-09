@@ -17,3 +17,7 @@ To automatically generate the list of publications, the Jekyll post engine is us
   * `bib` (optional): An url to a bibfile.
   * `talk` (optional): An url to the presentation slides.
   * `github` (optional): An url to a github repository. 
+
+## License
+
+The license for the code is inherited from [orderedlist/minimal](https://github.com/orderedlist/minimal), which was used as the basis for the theme. That is, the code is licensed under [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/).
