@@ -1,6 +1,6 @@
 # Jekyll Environment for My Academic Website
 
-This repository contains the Jekyll environment, which is automatically transferred into my personal academic website hosted on github pages ([link](http://derlerd.github.io)).
+This repository contains the Jekyll environment, which is used to automatically generate my personal academic website hosted on github pages ([link](http://derlerd.github.io)).
 
 ## Publication List
 
