@@ -6,6 +6,8 @@ authors: Jan Camenisch, David Derler, Stephan Krenn, Henrich C. Pöhls, Kai Same
 venue: PKC 2017
 vurl: https://www.iacr.org/workshops/pkc2017/
 vatt: (Accepted)
+web: https://eprint.iacr.org/2017/011
+pdf: https://eprint.iacr.org/2017/011.pdf
 
 ---
 
