@@ -1,0 +1,11 @@
+---
+layout: post
+year: 2017
+title: Homomorphic Proxy Re-Authenticators and Applications to Verifiable Multi-User Data Aggregation
+authors: David Derler, Sebastian Ramacher, Daniel Slamanig
+venue: FC 2017
+vurl: http://fc17.ifca.ai/
+vatt: (Accepted)
+
+---
+
