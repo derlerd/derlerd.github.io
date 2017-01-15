@@ -149,6 +149,10 @@ header li {
   padding: 3px 3px;
 }
 
+li a i.fa {
+    font-size: 22px;
+}
+
 .remark {
   font-size:10px;
   margin: 0 0 0px;
