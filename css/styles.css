@@ -8,7 +8,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   color:#222;
-  margin:0 0 8px;
+  margin:0 0 4px;
 }
 
 p, ul, ol, table, dl {
@@ -22,6 +22,8 @@ h1, h2, h3 {
 h1 {
   font-size:28px;
   font-weight: 500;
+  margin-top: 4px;
+  margin-bottom: 2px;
 }
 
 h2 {
@@ -168,7 +170,7 @@ li a i.fa {
 }
 
 header .affil {
-  margin: 0 0 10px;
+  margin: 0 0 5px;
 }
 
 header .occup {
