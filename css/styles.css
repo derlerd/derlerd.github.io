@@ -151,6 +151,11 @@ header li {
   padding: 3px 3px;
 }
 
+section ul {
+  list-style-position:inside;
+  padding-left: 20px;
+}
+
 li a i.fa {
     font-size: 22px;
 }
