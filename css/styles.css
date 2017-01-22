@@ -157,7 +157,7 @@ section ul {
   padding-left: 20px;
 }
 
-section li:before {
+section ul.itemprefix li:before {
   content: "- ";
 }
 
