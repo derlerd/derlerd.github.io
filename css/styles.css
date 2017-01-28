@@ -148,7 +148,7 @@ header ul {
 
 header li {
   display:inline;
-  padding: 3px 3px;
+  padding: 1px 1px;
 }
 
 section ul {
@@ -162,7 +162,7 @@ section ul.itemprefix li:before {
 }
 
 li a i.fa {
-    font-size: 22px;
+    font-size: 20px;
 }
 
 .remark {
