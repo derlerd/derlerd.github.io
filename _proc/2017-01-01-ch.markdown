@@ -8,6 +8,7 @@ vurl: https://www.iacr.org/workshops/pkc2017/
 vatt: (Accepted)
 web: https://eprint.iacr.org/2017/011
 pdf: https://eprint.iacr.org/2017/011.pdf
+bib: http://dblp.uni-trier.de/rec/bibtex/journals/iacr/CamenischDKPSS17
 
 ---
 
