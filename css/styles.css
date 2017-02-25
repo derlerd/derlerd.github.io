@@ -157,6 +157,16 @@ section ul {
   padding-left: 15px;
 }
 
+footer ul {
+  list-style-position:inside;
+  list-style-type:none;
+  padding-left: 0px;
+}
+
+footer li {
+  font-size: 12px;
+}
+
 section ul.itemprefix li:before {
   content: "- ";
 }
@@ -217,6 +227,13 @@ footer {
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
+.news {
+    border:1px solid #e5e5e5;
+    border-width:1px 0;
+    padding:10px 0 0 0;
+    margin:20px;
+  }
+
 @media print, screen and (max-width: 960px) {
 
   div.wrapper {
@@ -240,6 +257,10 @@ footer {
     padding:20px 0;
     margin:0 0 20px;
   }
+  
+  .news {
+    display:none;
+  }
    
   
 }
@@ -254,6 +275,10 @@ footer {
   }
 
   .download {
+    display:none;
+  }
+
+  .news {
     display:none;
   }
 
