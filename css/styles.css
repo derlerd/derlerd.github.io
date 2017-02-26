@@ -266,7 +266,12 @@ footer {
     display:none;
   }
    
-  
+}
+
+@media print, screen and (max-height: 720px) {
+  .news {
+    display:none;
+  }
 }
 
 @media print, screen and (max-width: 720px) {
