@@ -268,7 +268,7 @@ footer {
    
 }
 
-@media print, screen and (max-height: 720px) {
+@media print, screen and (max-height: 600px) {
   .news {
     display:none;
   }
