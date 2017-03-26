@@ -30,6 +30,7 @@ collections:
   - articles
   - theses
   - deli
+  - talk
 exclude:
   - Gemfile
   - Gemfile.lock
