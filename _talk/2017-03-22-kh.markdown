@@ -3,7 +3,7 @@ layout: post
 year: 2017
 title: Key-Homomorphic Signatures and Applications to Simulation Sound Extractable NIZK
 authors: David Derler
-venue: March 22, 2017. Paderborn University 
+venue: Paderborn University. March 22, 2017
 web: http://tiborjager.de/
 talk: publications/talks/key-hom.pdf
 ---
