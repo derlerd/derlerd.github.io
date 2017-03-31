@@ -1,12 +1,14 @@
 ---
 layout: post
-year: 2016
-title: Digital Signatures from Symmetric-Key Primitives
-authors: David Derler, Claudio Orlandi, Sebastian Ramacher, Christian Rechberger, Daniel Slamanig
+year: 2017
+title: Post-Quantum Zero-Knowledge and Signatures from Symmetric-Key Primitives
+authors: Melissa Chase, David Derler, Steven Goldfeder, Claudio Orlandi, Sebastian Ramacher, Christian Rechberger, Daniel Slamanig, Greg Zaverucha
 venue: IACR Cryptology ePrint Archive Report 2016/1085 
-pdf: http://eprint.iacr.org/2016/1085.pdf
-web: http://eprint.iacr.org/2016/1085
-bib: http://dblp.uni-trier.de/rec/bibtex/journals/iacr/DerlerORRS16
-github: https://github.com/IAIK/fish-begol
+vatt: Merge of ePrint 2016:1085 and 2016:1110
+pdf: https://eprint.iacr.org/2017/279.pdf
+web: https://eprint.iacr.org/2017/279
+
+#bib: http://dblp.uni-trier.de/rec/bibtex/journals/iacr/DerlerORRS16
+#github: https://github.com/IAIK/fish-begol
 ---
 
