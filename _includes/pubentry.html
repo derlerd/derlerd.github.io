@@ -9,21 +9,21 @@
           {% else %} <i class="fa fa-file-pdf-o"></i>
           {% endif %}
         </td>
-        <td class="downloadpdf">
+        <td class="download">
           {% if post.pub %}<a href="{{post.pub}}" target="_blank"><i class="fa fa-book"></i></a>
           {% else %} <i class="fa fa-book"></i>
           {% endif %}
         </td>
-        <td class="download">
-          {% if post.web %}<a href="{{post.web}}" target="_blank"><i class="fa fa-globe"></i></a>
-          {% else %} <i class="fa fa-globe"></i>
+        <td class="downloadpdf">
+          {% if post.talk %}<a href="{{post.talk}}" target="_blank"><i class="fa fa-television"></i></a>
+          {% else %} <i class="fa fa-television"></i>
           {% endif %}
         </td>
       </tr>
       <tr>
         <td class="download">
-          {% if post.talk %}<a href="{{post.talk}}" target="_blank"><i class="fa fa-television"></i></a>
-          {% else %} <i class="fa fa-television"></i>
+          {% if post.web %}<a href="{{post.web}}" target="_blank"><i class="fa fa-globe"></i></a>
+          {% else %} <i class="fa fa-globe"></i>
           {% endif %}
         </td>
         <td class="download">
