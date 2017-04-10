@@ -4,7 +4,7 @@ year: 2017
 title: Post-Quantum Zero-Knowledge and Signatures from Symmetric-Key Primitives
 authors: Melissa Chase, David Derler, Steven Goldfeder, Claudio Orlandi, Sebastian Ramacher, Christian Rechberger, Daniel Slamanig, Greg Zaverucha
 venue: IACR Cryptology ePrint Archive Report 2017/279 
-vatt: (Merge of <a href="https://eprint.iacr.org/2016/1085">2016/1085</a> and <a href="https://eprint.iacr.org/2016/1110">2016/1110</a>)
+vatt: (merge of <a href="https://eprint.iacr.org/2016/1085">2016/1085</a> and <a href="https://eprint.iacr.org/2016/1110">2016/1110</a>)
 pdf: https://eprint.iacr.org/2017/279.pdf
 web: https://eprint.iacr.org/2017/279
 

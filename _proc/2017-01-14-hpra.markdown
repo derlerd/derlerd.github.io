@@ -5,7 +5,7 @@ title: Homomorphic Proxy Re-Authenticators and Applications to Verifiable Multi-
 authors: David Derler, Sebastian Ramacher, Daniel Slamanig
 venue: FC 2017
 vurl: http://fc17.ifca.ai/
-vatt: (To Appear)
+vatt: (to appear)
 web: https://eprint.iacr.org/2017/086
 pdf: https://eprint.iacr.org/2017/086.pdf
 talk: publications/talks/hpra.pdf
