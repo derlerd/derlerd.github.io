@@ -7,8 +7,7 @@ venue: IACR Cryptology ePrint Archive Report 2017/279
 vatt: (merge of <a href="https://eprint.iacr.org/2016/1085">2016/1085</a> and <a href="https://eprint.iacr.org/2016/1110">2016/1110</a>)
 pdf: https://eprint.iacr.org/2017/279.pdf
 web: https://eprint.iacr.org/2017/279
-
-#bib: http://dblp.uni-trier.de/rec/bibtex/journals/iacr/DerlerORRS16
+bib: http://dblp.uni-trier.de/rec/bibtex/journals/iacr/ChaseDGORRSZ17
 #github: https://github.com/IAIK/fish-begol
 ---
 
