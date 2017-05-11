@@ -172,7 +172,7 @@ footer li {
 }
 
 footer td {
-  padding: 0px;
+  padding: 0 0 1px 0;
 }
 
 footer td.date {
