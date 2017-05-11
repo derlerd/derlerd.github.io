@@ -180,7 +180,7 @@ footer td.date {
   font-weight: bold;
 }
 
-.newstable tr.pubentry:nth-child(even) {
+.newstable tr:nth-child(even) {
   background: #efefef;
 }
 
