@@ -180,10 +180,6 @@ footer td.date {
   font-weight: bold;
 }
 
-.newstable tr:nth-child(even) {
-  background: #efefef;
-}
-
 footer table {
   font-size: 12px;
   padding: 0px;
@@ -252,7 +248,7 @@ footer {
 
 .news {
     border:1px solid #e5e5e5;
-    border-width:1px 0;
+    border-width:0px 0;
     padding:10px 0 0 0;
     margin:0 0 20px;
   }
