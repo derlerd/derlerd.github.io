@@ -171,6 +171,24 @@ footer li {
   font-size: 12px;
 }
 
+footer td {
+  padding: 0px;
+}
+
+footer td.date {
+  width: 10em;
+}
+
+.newstable tr.pubentry:nth-child(even) {
+  background: #efefef;
+}
+
+footer table {
+  font-size: 12px;
+  padding: 0px;
+  margin: 0 0 10px 0;
+}
+
 section ul.itemprefix li:before {
   content: "- ";
 }
