@@ -177,6 +177,7 @@ footer td {
 
 footer td.date {
   width: 10em;
+  font-weight: bold;
 }
 
 .newstable tr.pubentry:nth-child(even) {
