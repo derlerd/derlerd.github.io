@@ -173,6 +173,7 @@ footer li {
 
 footer td {
   padding: 0 0 1px 0;
+  vertical-align: top;
 }
 
 footer td.date {
