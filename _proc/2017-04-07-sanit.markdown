@@ -6,6 +6,7 @@ authors: Michael Till Beck, Jan Camenisch, David Derler, Stephan Krenn, Henrich 
 venue: ACISP 2017
 vurl: http://acisp.massey.ac.nz/
 vatt: (accepted)
-
+pdf: http://eprint.iacr.org/2017/445.pdf
+web: http://eprint.iacr.org/2017/445
 ---
 
