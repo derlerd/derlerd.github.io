@@ -5,7 +5,6 @@ title: Practical Strongly Invisible and Strongly Accountable Sanitizable Signatu
 authors: Michael Till Beck, Jan Camenisch, David Derler, Stephan Krenn, Henrich C. Pöhls, Kai Samelin, Daniel Slamanig
 venue: ACISP 2017
 vurl: http://acisp.massey.ac.nz/
-vatt: (accepted)
 pdf: http://eprint.iacr.org/2017/445.pdf
 web: http://eprint.iacr.org/2017/445
 pub: http://dx.doi.org/10.1007/978-3-319-60055-0_23
