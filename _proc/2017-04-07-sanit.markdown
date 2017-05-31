@@ -8,5 +8,6 @@ vurl: http://acisp.massey.ac.nz/
 vatt: (accepted)
 pdf: http://eprint.iacr.org/2017/445.pdf
 web: http://eprint.iacr.org/2017/445
+pub: http://dx.doi.org/10.1007/978-3-319-60055-0_23
 ---
 
