@@ -8,6 +8,6 @@ vatt: (merge of <a href="https://eprint.iacr.org/2016/1085">2016/1085</a> and <a
 pdf: https://eprint.iacr.org/2017/279.pdf
 web: https://eprint.iacr.org/2017/279
 bib: http://dblp.uni-trier.de/rec/bibtex/journals/iacr/ChaseDGORRSZ17
-#github: https://github.com/IAIK/fish-begol
+github: publications/code/pqsigs.html
 ---
 
