@@ -1,7 +1,7 @@
 ---
 layout: post
 year: 2017
-title: A Modular Framework for Privacy-Enhancing Signatures: Generalizations, Extensions, and Novel Building Blocks
+title: "A Modular Framework for Privacy-Enhancing Signatures: Generalizations, Extensions, and Novel Building Blocks"
 authors: David Derler
 venue: PhD Thesis, Graz University of Technology, 2017 
 ---
