@@ -34,3 +34,5 @@ collections:
 exclude:
   - Gemfile
   - Gemfile.lock
+include:
+  - keybase.txt
