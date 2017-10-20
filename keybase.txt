@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/dderler
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://david.derler.info
+  * I am dderler (https://keybase.io/dderler) on keybase.
+  * I have a public key ASA4JFW6UBeejvdv_9uab99iOWZ5ucLRG81QSr_c4AZEkwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120382455ba50179e8ef76fffdb9a6fdf62396679b9c2d11bcd504abfdce00644930a",
+      "host": "keybase.io",
+      "kid": "0120382455ba50179e8ef76fffdb9a6fdf62396679b9c2d11bcd504abfdce00644930a",
+      "uid": "21b0366e25b64d1cf7e1cbd0f1bb7c19",
+      "username": "dderler"
+    },
+    "merkle_root": {
+      "ctime": 1508487962,
+      "hash": "740d89f845de4db9fb0e4f1904c9a30802be41eb800f812a64d95988eab12ccc9e1b2d9a7e4ad5e309917f43568558095636083981c10b521f5d3a4b616c3a40",
+      "hash_meta": "467ad9fd9adda8cf914b1a7b69c9b58cb919dd30d869b1db28dd9b5b7b172d1d",
+      "seqno": 1606959
+    },
+    "service": {
+      "hostname": "david.derler.info",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.34"
+  },
+  "ctime": 1508488027,
+  "expire_in": 504576000,
+  "prev": "58da96387ac3e0dd1c9eca68a8f0129f24124b4c27d4d09f03f8ec656b9a971e",
+  "seqno": 10,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgOCRVulAXno73b//bmm/fYjlmebnC0RvNUEq/3OAGRJMKp3BheWxvYWTFA0h7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwMzgyNDU1YmE1MDE3OWU4ZWY3NmZmZmRiOWE2ZmRmNjIzOTY2NzliOWMyZDExYmNkNTA0YWJmZGNlMDA2NDQ5MzBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMzgyNDU1YmE1MDE3OWU4ZWY3NmZmZmRiOWE2ZmRmNjIzOTY2NzliOWMyZDExYmNkNTA0YWJmZGNlMDA2NDQ5MzBhIiwidWlkIjoiMjFiMDM2NmUyNWI2NGQxY2Y3ZTFjYmQwZjFiYjdjMTkiLCJ1c2VybmFtZSI6ImRkZXJsZXIifSwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE1MDg0ODc5NjIsImhhc2giOiI3NDBkODlmODQ1ZGU0ZGI5ZmIwZTRmMTkwNGM5YTMwODAyYmU0MWViODAwZjgxMmE2NGQ5NTk4OGVhYjEyY2NjOWUxYjJkOWE3ZTRhZDVlMzA5OTE3ZjQzNTY4NTU4MDk1NjM2MDgzOTgxYzEwYjUyMWY1ZDNhNGI2MTZjM2E0MCIsImhhc2hfbWV0YSI6IjQ2N2FkOWZkOWFkZGE4Y2Y5MTRiMWE3YjY5YzliNThjYjkxOWRkMzBkODY5YjFkYjI4ZGQ5YjViN2IxNzJkMWQiLCJzZXFubyI6MTYwNjk1OX0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJkYXZpZC5kZXJsZXIuaW5mbyIsInByb3RvY29sIjoiaHR0cDoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMzQifSwiY3RpbWUiOjE1MDg0ODgwMjcsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJwcmV2IjoiNThkYTk2Mzg3YWMzZTBkZDFjOWVjYTY4YThmMDEyOWYyNDEyNGI0YzI3ZDRkMDlmMDNmOGVjNjU2YjlhOTcxZSIsInNlcW5vIjoxMCwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEDijlSdqozzKaw+/Vw42PHmWwcgUjtmwTuFQ90LVtftS52lBX8yijAKWAzY/BSFzjlrFrcI3rWL8mqhs9KAqLIFqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgrxkElOfuh3UkByE+Ymm9I8ZGmAX3wt4hlGTKa5GkAhajdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/dderler
+
+==================================================================
