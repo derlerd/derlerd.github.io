@@ -3,7 +3,7 @@ layout: post
 year: 2018
 title: Short Double- and N-Times-Authentication-Preventing Signatures from ECDSA and More
 authors: David Derler, Sebastian Ramacher, Daniel Slamanig
-venue: IEEE EuroS&P 2017 
+venue: IEEE EuroS&P 2018 
 vurl: https://www.ieee-security.org/TC/EuroSP2018/
 vatt: (accepted)
 
