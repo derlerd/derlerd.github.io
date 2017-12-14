@@ -1,0 +1,9 @@
+---
+layout: post
+year: 2018
+title: "Revisiting Proxy Re-Encryption: Forward Secrecy, Improved Security, and Applications"
+authors: David Derler, Stephan Krenn, Thomas Lorünser, Sebastian Ramacher, Daniel Slamanig, Christoph Striecks
+venue: PKC 2018
+vurl: https://pkc.iacr.org/2018/
+vatt: (accepted)
+---
