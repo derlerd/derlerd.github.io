@@ -7,7 +7,7 @@ venue: ACM CCS 2017
 vurl: https://www.sigsac.org/ccs/CCS2017/
 pdf: https://eprint.iacr.org/2017/279.pdf
 web: https://eprint.iacr.org/2017/279
-bib: http://dblp.uni-trier.de/rec/bibtex/journals/iacr/ChaseDGORRSZ17
+bib: http://dblp.uni-trier.de/rec/bibtex/conf/ccs/ChaseDGORRSZ17
 github: publications/code/pqsigs.html
 pub: http://doi.acm.org/10.1145/3133956.3133997
 ---
