@@ -6,6 +6,8 @@ authors: David Derler, Sebastian Ramacher, Daniel Slamanig
 venue: IEEE EuroS&P 2018 
 vurl: https://www.ieee-security.org/TC/EuroSP2018/
 vatt: (accepted)
+pdf: https://eprint.iacr.org/2017/1203.pdf
+web: https://eprint.iacr.org/2017/1203
 
 ---
 
