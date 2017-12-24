@@ -5,6 +5,6 @@ title: Design und Implementierung eines Localhost Signaturgateways
 authors: David Derler, Christof Rath, Moritz Horsch, Tobias Wich
 venue: D-A-CH Security 2014
 vurl: https://www.syssec.at/dachsecurity2014/
-
+talk: publications/talks/talk-esign.pdf
 ---
 
