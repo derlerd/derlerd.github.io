@@ -39,6 +39,20 @@ layout: default
   <tr><th colspan="3" >Journal Papers</th></tr>
 </thead>
 
+{% for post in site.jour reversed %}
+
+{% include pubentry.html %}
+
+{% endfor %}
+
+</table>
+
+<table class="pubtable">
+
+<thead>
+  <tr><th colspan="3" >Articles</th></tr>
+</thead>
+
 {% for post in site.articles reversed %}
 
 {% include pubentry.html %}

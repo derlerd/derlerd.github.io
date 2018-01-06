@@ -28,6 +28,7 @@ gems:
 collections:
   - preprints
   - proc
+  - jour
   - articles
   - theses
   - deli
