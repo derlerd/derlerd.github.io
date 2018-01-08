@@ -9,6 +9,7 @@ web: https://eprint.iacr.org/2017/086
 pdf: https://eprint.iacr.org/2017/086.pdf
 pub: https://dx.doi.org/10.1007/978-3-319-70972-7_7
 talk: publications/talks/hpra.pdf
+bib: http://dblp.org/rec/bibtex/conf/fc/DerlerRS17
 
 ---
 
