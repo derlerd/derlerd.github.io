@@ -4,7 +4,7 @@ This repository contains the Jekyll environment, which is used to automatically 
 
 ## Publication List
 
-To automatically generate the list of publications, the Jekyll post engine is used. That is, each file in the directories `_preprints`, `_proc`, `_jour`, `_articles`, `_theses`, `_deli` is treated as a single publication of the respective category. The date prefix is not displayed and only used for sorting purposes. The meta-information determines the displayed information. The key `layout` needs to be set to `post` and the remaining keys have the following semantics:
+To automatically generate the list of publications, the Jekyll post engine is used. That is, each file in the directories `_preprints`, `_proc`, `_jour`, `_articles`, `_talk`, `_theses`, `_deli` is treated as a single publication of the respective category. The date prefix is not displayed and only used for sorting purposes. The meta-information determines the displayed information. The key `layout` needs to be set to `post` and the remaining keys have the following semantics:
   * `year`: Publication year
   * `title`: Title of the publication
   * `authors`: A comma separated list of authors
