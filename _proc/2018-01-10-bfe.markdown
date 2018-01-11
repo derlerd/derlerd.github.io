@@ -1,0 +1,9 @@
+---
+layout: post
+year: 2018	
+title: Bloom Filter Encryption and Applications to Efficient Forward-Secret 0-RTT Key Exchange
+authors: David Derler, Tibor Jager, Daniel Slamanig, Christoph Striecks
+venue: EUROCRYPT 2018
+vurl: https://eurocrypt.iacr.org/2018/
+vatt: (accepted)
+---
