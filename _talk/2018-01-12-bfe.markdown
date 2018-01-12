@@ -1,0 +1,11 @@
+---
+layout: post
+year: 2017
+title: Bloom Filter Encryption and Applications to Efficient Forward-Secret 0-RTT Key Exchange
+authors: David Derler
+venue: RWC 2018
+vurl: https://rwc.iacr.org/index.html 
+web: https://rwc.iacr.org/index.html
+talk: publications/talks/bfe.pdf
+---
+
