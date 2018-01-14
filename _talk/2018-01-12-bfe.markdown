@@ -6,5 +6,6 @@ authors: David Derler
 venue: RWC 2018, Zurich, Switzerland. January 12, 2018 
 web: https://rwc.iacr.org/2018/index.html
 talk: publications/talks/bfe.pdf
+github: https://www.youtube.com/watch?v=TAPBu-jMKkg
 ---
 
