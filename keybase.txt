@@ -4,7 +4,7 @@ https://keybase.io/dderler
 
 I hereby claim:
 
-  * I am an admin of http://david.derler.info
+  * I am an admin of https://david.derler.info
   * I am dderler (https://keybase.io/dderler) on keybase.
   * I have a public key ASA4JFW6UBeejvdv_9uab99iOWZ5ucLRG81QSr_c4AZEkwo
 
@@ -20,32 +20,32 @@ To do so, I am signing this object:
       "username": "dderler"
     },
     "merkle_root": {
-      "ctime": 1508488782,
-      "hash": "56d317d353e64859dbc4e21a498386a4424759f5fe616bf0b39e42a84030134fcaae22d78f663d2d1d78ec8f82c7e35611b3fc33d3e0746757d29f563eebfb9d",
-      "hash_meta": "90def881301a403a4d2dde396d02436cb6bf656345dd8118754908d5de030795",
-      "seqno": 1607003
+      "ctime": 1520574291,
+      "hash": "b4a6bbe6bb306b6caedd25e029bfcad2cc09d22f97aebf06c4aa335193ed1e15a0f4c0b17e182d94c581d9954aac3d948c756d37999463f1c1734a560a2b5146",
+      "hash_meta": "56555ed7d25bc9f782d72b962df5e3b25c5c83c28b577dda1408254e509179da",
+      "seqno": 2207992
     },
     "service": {
       "hostname": "david.derler.info",
-      "protocol": "http:"
+      "protocol": "https:"
     },
     "type": "web_service_binding",
     "version": 1
   },
   "client": {
     "name": "keybase.io go client",
-    "version": "1.0.34"
+    "version": "1.0.45"
   },
-  "ctime": 1508488791,
+  "ctime": 1520574305,
   "expire_in": 504576000,
-  "prev": "e614d86acfd776a9678915ffe4f88afcde67e9c838b5a23a604396ad8cc5bad8",
-  "seqno": 15,
+  "prev": "a3bba334b4cb1867ee6043e1f4b7f00b9853463657badabe23e6c073f8388257",
+  "seqno": 32,
   "tag": "signature"
 }
 
 which yields the signature:
 
-hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgOCRVulAXno73b//bmm/fYjlmebnC0RvNUEq/3OAGRJMKp3BheWxvYWTFA0h7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwMzgyNDU1YmE1MDE3OWU4ZWY3NmZmZmRiOWE2ZmRmNjIzOTY2NzliOWMyZDExYmNkNTA0YWJmZGNlMDA2NDQ5MzBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMzgyNDU1YmE1MDE3OWU4ZWY3NmZmZmRiOWE2ZmRmNjIzOTY2NzliOWMyZDExYmNkNTA0YWJmZGNlMDA2NDQ5MzBhIiwidWlkIjoiMjFiMDM2NmUyNWI2NGQxY2Y3ZTFjYmQwZjFiYjdjMTkiLCJ1c2VybmFtZSI6ImRkZXJsZXIifSwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE1MDg0ODg3ODIsImhhc2giOiI1NmQzMTdkMzUzZTY0ODU5ZGJjNGUyMWE0OTgzODZhNDQyNDc1OWY1ZmU2MTZiZjBiMzllNDJhODQwMzAxMzRmY2FhZTIyZDc4ZjY2M2QyZDFkNzhlYzhmODJjN2UzNTYxMWIzZmMzM2QzZTA3NDY3NTdkMjlmNTYzZWViZmI5ZCIsImhhc2hfbWV0YSI6IjkwZGVmODgxMzAxYTQwM2E0ZDJkZGUzOTZkMDI0MzZjYjZiZjY1NjM0NWRkODExODc1NDkwOGQ1ZGUwMzA3OTUiLCJzZXFubyI6MTYwNzAwM30sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJkYXZpZC5kZXJsZXIuaW5mbyIsInByb3RvY29sIjoiaHR0cDoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMzQifSwiY3RpbWUiOjE1MDg0ODg3OTEsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJwcmV2IjoiZTYxNGQ4NmFjZmQ3NzZhOTY3ODkxNWZmZTRmODhhZmNkZTY3ZTljODM4YjVhMjNhNjA0Mzk2YWQ4Y2M1YmFkOCIsInNlcW5vIjoxNSwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEDkdGjhxEJlFqWZI83cJSs6025oeMwVUJpNqmyZ7XXZgCMQw97BsWFoknKuResrbk9Cdnu/s6UbYRUuf0aU/NICqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgEHcCKjm/3Swf+nhO/Bmkk0e/wrT+AJDtoUnzE5GHq2ajdGFnzQICp3ZlcnNpb24B
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgOCRVulAXno73b//bmm/fYjlmebnC0RvNUEq/3OAGRJMKp3BheWxvYWTFA0l7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwMzgyNDU1YmE1MDE3OWU4ZWY3NmZmZmRiOWE2ZmRmNjIzOTY2NzliOWMyZDExYmNkNTA0YWJmZGNlMDA2NDQ5MzBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMzgyNDU1YmE1MDE3OWU4ZWY3NmZmZmRiOWE2ZmRmNjIzOTY2NzliOWMyZDExYmNkNTA0YWJmZGNlMDA2NDQ5MzBhIiwidWlkIjoiMjFiMDM2NmUyNWI2NGQxY2Y3ZTFjYmQwZjFiYjdjMTkiLCJ1c2VybmFtZSI6ImRkZXJsZXIifSwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE1MjA1NzQyOTEsImhhc2giOiJiNGE2YmJlNmJiMzA2YjZjYWVkZDI1ZTAyOWJmY2FkMmNjMDlkMjJmOTdhZWJmMDZjNGFhMzM1MTkzZWQxZTE1YTBmNGMwYjE3ZTE4MmQ5NGM1ODFkOTk1NGFhYzNkOTQ4Yzc1NmQzNzk5OTQ2M2YxYzE3MzRhNTYwYTJiNTE0NiIsImhhc2hfbWV0YSI6IjU2NTU1ZWQ3ZDI1YmM5Zjc4MmQ3MmI5NjJkZjVlM2IyNWM1YzgzYzI4YjU3N2RkYTE0MDgyNTRlNTA5MTc5ZGEiLCJzZXFubyI6MjIwNzk5Mn0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJkYXZpZC5kZXJsZXIuaW5mbyIsInByb3RvY29sIjoiaHR0cHM6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjQ1In0sImN0aW1lIjoxNTIwNTc0MzA1LCJleHBpcmVfaW4iOjUwNDU3NjAwMCwicHJldiI6ImEzYmJhMzM0YjRjYjE4NjdlZTYwNDNlMWY0YjdmMDBiOTg1MzQ2MzY1N2JhZGFiZTIzZTZjMDczZjgzODgyNTciLCJzZXFubyI6MzIsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAy7xVWob+xn1zWXOriRt5mwJa+luWofuLUjVWtio8zp/ionxLsUAWWkbCC9FIf38K6i+dBmJ6Xzxpi7nt9LpACKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEINzlBkwC+n+W1o0pfxNnSN9lEfLiovDr762n9T5VkPNuo3RhZ80CAqd2ZXJzaW9uAQ==
 
 And finally, I am proving ownership of this host by posting or
 appending to this document.
