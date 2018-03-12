@@ -1,6 +1,6 @@
 ---
 layout: post
-year: 2016
+year: 2018
 title: Highly-Efficient Fully-Anonymous Dynamic Group Signatures
 authors: David Derler, Daniel Slamanig
 venue: ASIACCS 2018
