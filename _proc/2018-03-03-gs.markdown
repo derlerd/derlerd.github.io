@@ -1,7 +1,7 @@
 ---
 layout: post
 year: 2016
-title: Fully-Anonymous Short Dynamic Group Signatures Without Encryption
+title: Highly-Efficient Fully-Anonymous Dynamic Group Signatures
 authors: David Derler, Daniel Slamanig
 venue: ASIACCS 2018
 vurl: http://asiaccs2018.org
