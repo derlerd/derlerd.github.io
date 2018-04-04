@@ -8,5 +8,6 @@ vurl: http://www.math.fau.edu/pqcrypto2018/
 vatt: (accepted)
 pdf: http://eprint.iacr.org/2017/1154.pdf
 web: http://eprint.iacr.org/2017/1154
+pub: https://doi.org/10.1007/978-3-319-79063-3_20
 ---
 
