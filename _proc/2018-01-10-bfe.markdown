@@ -5,7 +5,9 @@ title: Bloom Filter Encryption and Applications to Efficient Forward-Secret 0-RT
 authors: David Derler, Tibor Jager, Daniel Slamanig, Christoph Striecks
 venue: EUROCRYPT 2018
 vurl: https://eurocrypt.iacr.org/2018/
-vatt: (accepted)
 pdf: https://eprint.iacr.org/2018/199.pdf
 web: https://eprint.iacr.org/2018/199
+pub: https://doi.org/10.1007/978-3-319-78372-7_14
+bib: https://dblp.uni-trier.de/rec/bibtex/conf/eurocrypt/DerlerJSS18
+
 ---
