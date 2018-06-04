@@ -9,5 +9,6 @@ vatt: (accepted)
 pdf: http://eprint.iacr.org/2016/154.pdf
 web: http://eprint.iacr.org/2016/154
 bib: http://dblp.uni-trier.de/rec/bibtex/journals/iacr/DerlerS16
+pub: https://doi.org/10.1145/3196494.3196507
 ---
 
