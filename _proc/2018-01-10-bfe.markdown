@@ -10,5 +10,6 @@ web: https://eprint.iacr.org/2018/199
 pub: https://doi.org/10.1007/978-3-319-78372-7_14
 bib: https://dblp.uni-trier.de/rec/bibtex/conf/eurocrypt/DerlerJSS18
 talk: publications/talks/ec-talk.pdf
+github: https://youtu.be/JhoeGnHKY2c
 
 ---
