@@ -7,10 +7,10 @@ author: David Derler
 authorimg: images/dd.png
 authoroccup: Researcher in Cryptography
 
-inst: IAIK
-insturl: http://www.iaik.tugraz.at
-uni: Graz University of Technology
-uniurl: http://www.tugraz.at
+inst: DFINITY
+insturl: https://www.dfinity.org
+# uni: Graz University of Technology
+# uniurl: http://www.tugraz.at
 
 vcard: 'mailto:cryptsec@derler.info'
 office: https://online.tugraz.at/tug_online/ris.einzelraum?raumkey=4944
