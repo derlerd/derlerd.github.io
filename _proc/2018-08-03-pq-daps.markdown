@@ -5,7 +5,7 @@ title: Generic Double-Authentication Preventing Signatures and a Post-Quantum In
 authors: David Derler, Sebastian Ramacher, Daniel Slamanig
 venue: ProvSec 2018
 vurl: https://ssl.informatics.uow.edu.au/provsec2018/
-vatt: (accepted)
+pub: https://doi.org/10.1007/978-3-030-01446-9_15
 web: https://eprint.iacr.org/2018/790
 pdf: https://eprint.iacr.org/2018/790.pdf
 
