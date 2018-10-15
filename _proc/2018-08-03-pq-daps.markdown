@@ -8,6 +8,7 @@ vurl: https://ssl.informatics.uow.edu.au/provsec2018/
 pub: https://doi.org/10.1007/978-3-030-01446-9_15
 web: https://eprint.iacr.org/2018/790
 pdf: https://eprint.iacr.org/2018/790.pdf
+bib: https://dblp.uni-trier.de/rec/bibtex/conf/provsec/DerlerRS18
 
 ---
 
