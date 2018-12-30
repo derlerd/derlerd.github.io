@@ -1,0 +1,9 @@
+---
+layout: post
+year: 2019
+title: "Fine-Grained and Controlled Rewriting in Blockchains: Chameleon-Hashing Gone Attribute-Based"
+authors: David Derler, Kai Samelin, Daniel Slamanig, Christoph Striecks
+venue: NDSS 2019
+vurl: https://www.ndss-symposium.org/ndss2019/
+vatt: (accepted)
+---
