@@ -7,7 +7,7 @@ venue: Designs, Codes and Cryptography
 vurl: http://www.springer.com/mathematics/journal/10623
 pdf: http://eprint.iacr.org/2015/1073.pdf
 web: http://eprint.iacr.org/2015/1073
-bib: http://dblp.uni-trier.de/rec/bibtex/journals/iacr/DerlerS15a
+bib: https://dblp.uni-trier.de/rec/bibtex/journals/dcc/DerlerS18
 pub: https://dx.doi.org/10.1007/s10623-018-0460-y
 ---
 
