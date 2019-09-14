@@ -1,0 +1,9 @@
+---
+layout: post
+year: 2019
+title: "I Want to Forget: Fine-Grained Encryption with Full Forward Secrecy in the Distributed Setting"
+authors: David Derler, Sebastian Ramacher, Daniel Slamanig, Christoph Striecks
+venue: IACR Cryptology ePrint Archive Report 2019/912
+pdf: http://eprint.iacr.org/2019/912.pdf
+web: http://eprint.iacr.org/2019/912
+---
