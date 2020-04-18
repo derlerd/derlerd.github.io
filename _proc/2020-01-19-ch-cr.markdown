@@ -6,7 +6,9 @@ authors: David Derler, Kai Samelin, Daniel Slamanig
 venue: "PKC 2020"
 vatt: (accepted)
 vurl: https://pkc.iacr.org/2020/
+pdf: http://eprint.iacr.org/2020/403.pdf
+web: http://eprint.iacr.org/2020/403
+
 ---
 
 
----
