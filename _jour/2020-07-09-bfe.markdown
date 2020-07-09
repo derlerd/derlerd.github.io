@@ -1,0 +1,13 @@
+---
+layout: post
+year: 2020
+title: Bloom Filter Encryption and Applications to Efficient Forward-Secret 0-RTT Key Exchange
+authors: David Derler, Tibor Jager, Daniel Slamanig, Christoph Striecks
+venue: Journal of Cryptology
+vatt: (accepted)
+vurl: https://www.springer.com/journal/145
+pdf: https://eprint.iacr.org/2018/199.pdf
+web: https://eprint.iacr.org/2018/199
+
+---
+
