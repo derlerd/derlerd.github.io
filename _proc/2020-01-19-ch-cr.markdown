@@ -8,6 +8,7 @@ vurl: https://pkc.iacr.org/2020/
 pdf: http://eprint.iacr.org/2020/403.pdf
 web: http://eprint.iacr.org/2020/403
 pub: https://doi.org/10.1007/978-3-030-45374-9_16
+vatt: (Invited to Journal of Cryptology)
 
 ---
 
