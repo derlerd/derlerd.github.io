@@ -4,7 +4,11 @@ year: 2020
 title: "Fully Collision-Resistant Chameleon-Hashes from Simpler and Post-Quantum Assumptions"
 authors: David Derler, Stephan Krenn, Kai Samelin, Daniel Slamanig
 venue: "SCN 2020"
-vatt: (accepted)
 vurl: https://scn.unisa.it/
+pdf: http://eprint.iacr.org/2020/1084.pdf
+web: http://eprint.iacr.org/2020/1084
+pub: https://doi.org/10.1007/978-3-030-57990-6_21
+bib: https://dblp.org/rec/bibtex/conf/scn/DerlerKSS20
+talk: https://youtu.be/rmxYjKGRnyM
 
 ---

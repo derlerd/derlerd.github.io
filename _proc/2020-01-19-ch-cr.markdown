@@ -9,6 +9,8 @@ pdf: http://eprint.iacr.org/2020/403.pdf
 web: http://eprint.iacr.org/2020/403
 pub: https://doi.org/10.1007/978-3-030-45374-9_16
 vatt: (Invited to Journal of Cryptology)
+bib: https://dblp.uni-trier.de/rec/conf/scn/DerlerKSS20.html?view=bibtex
+talk: https://www.youtube.com/watch?v=wJXyWa5Pj-U
 
 ---
 
