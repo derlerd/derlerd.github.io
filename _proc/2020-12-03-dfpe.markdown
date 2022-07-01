@@ -4,8 +4,10 @@ year: 2021
 title: "Fine-Grained Forward Secrecy: Allow-List/Deny-List Encryption and Applications"
 authors: David Derler, Sebastian Ramacher, Daniel Slamanig, Christoph Striecks
 venue: FC 2021
-vatt: (accepted)
 vurl: https://fc21.ifca.ai/
 pdf: http://eprint.iacr.org/2019/912.pdf
 web: http://eprint.iacr.org/2019/912
+pub: https://doi.org/10.1007/978-3-662-64331-0_26
+bib: https://dblp.org/rec/conf/fc/DerlerRSS21.html?view=bibtex
+talk: https://youtu.be/kEvfzz8eOjs
 ---
