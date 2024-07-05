@@ -1,0 +1,11 @@
+---
+layout: post
+year: 2024
+title: "Bringing Order to Chaos: The Case of Collision-Resistant Chameleon-Hashes"
+authors: David Derler, Kai Samelin, Daniel Slamanig
+venue: "Journal of Cryptology"
+vurl: https://www.iacr.org/jofc/
+pdf: https://link.springer.com/content/pdf/10.1007/s00145-024-09510-9.pdf
+pub: https://link.springer.com/article/10.1007/s00145-024-09510-9
+---
+
