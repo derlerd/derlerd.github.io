@@ -1,21 +1,22 @@
 # Site metadata
-keywords: Cryptography, Privacy, Information Security, Digital Signatures
-description: Dr. David Derler, Cryptographer, Senior Engineering Manager
-title: Dr. David Derler | Cryptographer | Senior Engineering Manager
+keywords: Cryptography, Privacy, Security
+description: Dr. David Derler | Cryptographer | Engineer | Engineering Leader
+title: Professional Website of Dr. David Derler
 
 author: David Derler
 authorimg: images/dd.png
-authoroccup: Senior Engineering Manager
+authoroccup: Cryptographer | Engineer | Leader
 
-inst: DFINITY
-insturl: https://www.dfinity.org
+# inst: DFINITY
+# insturl: https://www.dfinity.org
 # uni: Graz University of Technology
 # uniurl: http://www.tugraz.at
 
-vcard: 'mailto:david@dfinity.org'
+vcard: 'mailto:cryptsec@derler.info'
 office: https://online.tugraz.at/tug_online/ris.einzelraum?raumkey=4944
 twitter: dderler
 keybase: dderler
+github: derlerd
 linkedin: derlerd
 dblp: hd/d/Derler:David
 scholar: YfMKI0wAAAAJ
