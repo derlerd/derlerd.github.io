@@ -39,3 +39,4 @@ exclude:
   - Gemfile.lock
 include:
   - keybase.txt
+  - sitemap.xml
