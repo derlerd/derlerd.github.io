@@ -39,4 +39,6 @@ exclude:
   - Gemfile.lock
 include:
   - keybase.txt
-  - sitemap.xml
+url: "https://david.derler.info"
+plugins:
+  - jekyll-sitemap
