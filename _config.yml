@@ -25,7 +25,7 @@ scholar: YfMKI0wAAAAJ
 url: "https://david.derler.info"
 markdown: kramdown
 theme: minima
-gems:
+plugins:
   - jekyll-feed
   - jekyll-sitemap
 collections:
