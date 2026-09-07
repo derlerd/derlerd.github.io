@@ -22,10 +22,12 @@ dblp: hd/d/Derler:David
 scholar: YfMKI0wAAAAJ
 
 # Build settings
+url: "https://david.derler.info"
 markdown: kramdown
 theme: minima
 gems:
   - jekyll-feed
+  - jekyll-sitemap
 collections:
   - preprints
   - proc
@@ -39,6 +41,3 @@ exclude:
   - Gemfile.lock
 include:
   - keybase.txt
-url: "https://david.derler.info"
-plugins:
-  - jekyll-sitemap
