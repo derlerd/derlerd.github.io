@@ -7,5 +7,6 @@ venue: "Journal of Cryptology"
 vurl: https://www.iacr.org/jofc/
 pdf: https://link.springer.com/content/pdf/10.1007/s00145-024-09510-9.pdf
 pub: https://link.springer.com/article/10.1007/s00145-024-09510-9
+vatt: (Conference version published at PKC'20)
 ---
 
