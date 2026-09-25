@@ -162,6 +162,19 @@ section ul {
   padding-left: 15px;
 }
 
+.linkbar {
+  position: fixed;
+  top: 0;
+  width: 600px;
+  height: 60px;
+  background-color: #fff;
+  z-index: 1000;
+  display: flex;
+  justify-content: right;
+  align-items: center;
+  box-sizing: border-box;
+}
+
 .linkbar ul {
   list-style:none;
   padding:0px;
@@ -171,11 +184,6 @@ section ul {
   display:inline;
   padding-left: 15px;
   padding-right: 0px;
-}
-
-.linkbar {
-  padding: 0px 0px;
-  text-align: right;
 }
 
 footer ul {
@@ -296,6 +304,9 @@ footer {
   }
 
   .linkbar {
+    position: sticky;
+    width: 100%;
+    height: 25px;
     border-bottom:1px solid #e5e5e5;
     padding-bottom: 20px;
   }
