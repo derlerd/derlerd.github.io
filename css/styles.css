@@ -1,3 +1,7 @@
+html {
+  scrollbar-gutter:stable;
+}
+
 body {
   background-color: #fff;
   padding:50px;
