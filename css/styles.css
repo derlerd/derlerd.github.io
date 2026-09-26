@@ -122,7 +122,7 @@ table {
 
 td {
   text-align: left;
-  padding: 5px 5px;
+  padding: 6px 6px;
 }
 
 th {
@@ -254,6 +254,7 @@ strong {
 section {
   width: 580px;
   float: right;
+  text-align: justify;
   padding-bottom: 50px;
 }
 
