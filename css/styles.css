@@ -104,7 +104,7 @@ a:hover small {
 }
 
 .wrapper {
-  width: 860px;
+  width: 840px;
   margin: 0 auto;
 }
 
@@ -169,7 +169,7 @@ section ul {
 .linkbar {
   position: fixed;
   top: 0;
-  width: 600px;
+  width: 580px;
   height: 60px;
   background-color: #fff;
   z-index: 1000;
@@ -252,7 +252,7 @@ strong {
 }
 
 section {
-  width: 600px;
+  width: 580px;
   float: right;
   padding-bottom: 50px;
 }
