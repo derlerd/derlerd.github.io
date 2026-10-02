@@ -1,5 +1,6 @@
 html {
   scrollbar-gutter: stable;
+  -webkit-text-size-adjust: 100%;
 }
 
 body {
@@ -367,7 +368,6 @@ footer {
   }
 
   header ul, header p.view {
-    
     position: static;
   }
 
@@ -378,10 +378,6 @@ footer {
   body {
     padding: 15px;
   }
-
-  
-
-  
 }
 
 @media print {
