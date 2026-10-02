@@ -20,4 +20,4 @@ To automatically generate the list of publications, the Jekyll post engine is us
 
 ## License
 
-The license for the code is inherited from [orderedlist/minimal](https://github.com/orderedlist/minimal), which was used as the basis for the theme. That is, the code is licensed under [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/).
+The license for the code is inherited from [orderedlist/minimal](https://github.com/orderedlist/minimal/tree/93665df22f39f8d3275b4341dfed571fca0d4e59), which was used as the basis for the theme. That is, the code is licensed under [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/).
