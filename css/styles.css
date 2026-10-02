@@ -169,7 +169,6 @@ section ul {
 .linkbar {
   position: sticky;
   top: 20px;
-  height: 24px;
   width: fit-content;
   margin-left: auto;
   background-color: #efefef;
@@ -179,7 +178,7 @@ section ul {
   justify-content: space-between;
   align-items: center;
   padding-left: 0px;
-
+  padding-right: 0px;
 }
 
 .linkbar ul {
@@ -189,14 +188,15 @@ section ul {
 
 .linkbar li {
   display: inline;
-  padding-left: 0px;
-  padding-right: 0px;
+  padding: 0px;
 }
 
 .linkbar a {
   text-decoration: none;
   font-weight: 500;
-  padding: 3.5px 16px;
+  display:flex;
+  height:100%;
+  padding: 0 16px; 
   border-radius: 999px;
   transition: all 0.25s ease;
 }
