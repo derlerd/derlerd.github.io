@@ -172,6 +172,7 @@ section ul {
   width: fit-content;
   margin-left: auto;
   background-color: #efefef;
+  border: 1px solid #dfdfdf;
   border-radius: 999px;
   z-index: 1000;
   display: flex;
