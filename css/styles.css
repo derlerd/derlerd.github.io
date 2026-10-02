@@ -206,7 +206,7 @@ section ul {
   background: #dfdfdf;
 }
 
-@media (hover: hover) {
+@media (hover: hover) and (pointer: fine) {
   .linkbar a:hover {
     color: #fff;
     background: #595959;
