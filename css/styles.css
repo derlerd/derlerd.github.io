@@ -196,7 +196,7 @@ section ul {
 .linkbar a {
   text-decoration: none;
   font-weight: 500;
-  padding: 4px 16px;
+  padding: 3.5px 16px;
   border-radius: 999px;
   transition: all 0.25s ease;
 }
