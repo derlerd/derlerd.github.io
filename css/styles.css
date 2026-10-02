@@ -199,6 +199,7 @@ section ul {
   padding: 0 16px; 
   border-radius: 999px;
   transition: all 0.25s ease;
+  color: #595959;
 }
 
 .linkbar a.active {
