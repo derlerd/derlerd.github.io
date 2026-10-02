@@ -206,9 +206,11 @@ section ul {
   background: #dfdfdf;
 }
 
-.linkbar a:hover {
-  color: #fff;
-  background: #595959;
+@media (hover: hover) {
+  .linkbar a:hover {
+    color: #fff;
+    background: #595959;
+  }
 }
 
 footer ul {
