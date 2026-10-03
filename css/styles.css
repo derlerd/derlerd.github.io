@@ -187,7 +187,7 @@ section ul {
 
 .linkbar ul {
   list-style: none;
-  padding: 0px;
+  padding: 3px;
 }
 
 .linkbar li {
@@ -337,6 +337,7 @@ footer {
     position: sticky;
     margin-top: 15px;
     margin-bottom: 15px;
+    margin-right: auto;
   }
  
   .news {
