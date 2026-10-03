@@ -187,12 +187,12 @@ section ul {
 
 .linkbar ul {
   list-style: none;
-  padding: 3px;
+  padding: 0px;
 }
 
 .linkbar li {
   display: inline;
-  padding: 0px;
+  padding: 3px;
 }
 
 .linkbar a {
